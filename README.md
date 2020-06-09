@@ -1,3 +1,5 @@
+You can find my blog [here](https://medium.com/@maanavshah/does-salary-affect-performance-fifa-analysis-f32f2a3f4f8f) available
+
 ### Table of Contents
 
 1. [Installation](#installation)
